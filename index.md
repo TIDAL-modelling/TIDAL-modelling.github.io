@@ -1,35 +1,37 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+<p align="center">
+<img width="600" alt="Two-tone blue wave TIDAL logo. Below the wave the text reads Tool to Implement Developmental Analyses of Longitudinal data" src="https://user-images.githubusercontent.com/24313187/216609683-bac9e15c-6860-4441-a9ae-936f81940b1b.png">
+</p>
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+TIDAL is an R package and Shiny app for modelling longitudinal trajectories. The aim is for this digital tool to facilitate trajectories work and remove barriers to implementing longitudinal research to researchers without specialist statistical backgrounds. 
 
-More specifically, the created site:
+## Bugs and Feature Requests
+Please raise an issue if you find a bug or have a feature request using the templates provided.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Contact
+Please contact us at TIDAL@ed.ac.uk
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Authors, contributors and funders
+* Amelia J. Edmondson-Stait<sup>1</sup>, Ellen J. Thompson<sup>2</sup>, Eileen Y. Xu<sup>1</sup>, Richard M. A. Parker <sup>3</sup>, Ahmed Elhakeem<sup>3</sup>,  Liana Romaniuk<sup>1</sup>, Iona Beange<sup>1</sup>, Rebecca M. Pearson<sup>3,4</sup>, Andrew M. McIntosh<sup>1</sup>, Thalia C. Eley<sup>2</sup>, Kate Tilling<sup>3</sup>, Heather C. Whalley<sup>1,5</sup>, Alex S. F. Kwong<sup>1</sup>
+* Affiliations:
+     <ol type="1">
+        <li>Division of Psychiatry, University of Edinburgh</li>
+        <li>Social Genetic and Developmental Psychiatry Centre, King’s College London</li>
+        <li>Medical Research Council Integrative Epidemiology Unit, University of Bristol</li>
+        <li>Department of Psychology, Manchester Metropolitan University</li>
+        <li>Generation Scotland: Scottish Family Health Study (GS:SFHS), University of Edinburgh</li>
+     </ol>
+* We would also like to acknowledge cohort participants and those who have given feedback to our tool, including clinicians, teachers, researchers and our young people advisory group.
+* This project is funded by The Wellcome Trust and Social Finance, Grant Ref: 226686/Z/22/Z.
+<p align="left">
+<img width="100" alt="Wellcome Trust Logo" src="/assets/images/wellcome-logo-black.jpg">
+</p>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Disclaimer
+This package is provided solely for educational and informational purposes. Users understand and agree that any data uploaded and utilised with this package is done at their own risk. Users are solely responsible for the accuracy, legality, and ethical considerations of the data they upload. Additionally, users are responsible for the interpretation of results obtained through the use of this package. The creators and maintainers of this package shall not be held liable for any consequences arising from the use, interpretation, or implications of the package or the data uploaded.
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
