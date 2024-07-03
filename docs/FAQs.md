@@ -39,7 +39,13 @@ It's likely that you have uploaded an .xlsx file or another unsupported file for
 
 If you are a Mac user, when you click "download results" your results PDF will open in a pop-out window in your default PDF program. You need to save this report manually (CMD+S) or the file will be lost when closed.
 
-If you are trying to download results and the resulting file is not a .pdf or the file name begins with something other than "Explore_Data", it is likely that you do not have LaTeX installed on your computer. LaTeX is a free software needed to make PDF files in R, and can be downloaded for Linux, MacOS and Windows from [The LaTeX Project](https://www.latex-project.org/get).
+If you are trying to download results and the resulting file is not a .pdf or the file name begins with something other than "Explore_Data", it is likely that you do not have LaTeX installed on your computer. LaTeX is a free software needed to make PDF files in R, and can be downloaded for Linux, MacOS and Windows from [The LaTeX Project](https://www.latex-project.org/get). 
+
+Try running the following in your R console:
+```r
+install.packages("tinytex")
+tinytex::install_tinytex()
+```
 
 - **My model isn't running**
 
