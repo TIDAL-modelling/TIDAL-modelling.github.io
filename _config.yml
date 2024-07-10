@@ -6,6 +6,8 @@ theme: just-the-docs
 aux_links:
   GitHub: https://github.com/TIDAL-modelling/TIDAL
 
+aux_links_new_tab: true
+
 callouts_level: quiet # or loud
 callouts:
   highlight:
