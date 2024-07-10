@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 <div class="container">
-    <h2 class="heading">Depressive symptoms synthetic dataset</h2>
+    <h2 class="heading">Anxiety symptoms synthetic dataset</h2>
     <a href="/assets/synthetic_data/fp_anx_simulated.csv" class="btn btn-blue">Download dataset</a>
 </div>
 
