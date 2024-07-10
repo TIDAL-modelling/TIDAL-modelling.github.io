@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 layout: home
 nav_order: 1
 ---
@@ -10,14 +10,7 @@ nav_order: 1
 
 TIDAL is an R Shiny application for data wrangling, analysing, visualising and interpreting growth curve model data aimed at a variety of users, including researchers, clinicians, public health officials and educators. The aim is for this tool to remove barriers to implementing longitudinal research to researchers without specialist statistical backgrounds. 
 
-## How to use TIDAL
-
-* Online (with synthetic data only)
-* R package
-* Desktop application (Windows and macOS)
-
-
-## About TIDAL
+## About
 
 ### Funding information
 
