@@ -1,7 +1,7 @@
 ---
 title: Desktop application
 layout: default
-parent: How to use TIDAL
+parent: Getting Started
 nav_order: 3
 ---
 
