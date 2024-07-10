@@ -368,7 +368,7 @@ linear model.</p>
 <div id="upload-data-in-wide-format-and-convert-to-long-format" class="section level3">
 <h3>Upload data in wide format and convert to long format</h3>
 <pre class="r"><code># Load in wide format dataframe
-dataWide &lt;- read.csv(&quot;../data/emot_reg_emot_simulated.csv&quot;)
+dataWide &lt;- read.csv(&quot;emot_reg_simulated.csv&quot;)
 
 # Gather sdq_t columns into long format (this is a questionnaire score at each time point)
 dataScore &lt;- dataWide %&gt;%

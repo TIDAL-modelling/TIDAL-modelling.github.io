@@ -10,6 +10,7 @@ nav_order: 1
     <a href="/assets/synthetic_data/emot_reg_simulated.csv" class="btn btn-blue">Download dataset</a>
 </div>
 
+This dataset is also embedded within TIDAL as the "demo synthetic data".
 
  * Emotional regulation in childhood and emotional symptoms scores, measured by the Strengths & Difficulties Questionnaires (SDQ),  across 5 time points between childhoodand adolescence (ages 3 to 14).
  * This dataset contains ~13000 people, based upon data from the [Millennium Cohort Study (MCS)](https://cls.ucl.ac.uk/cls-studies/millennium-cohort-study/) participants.

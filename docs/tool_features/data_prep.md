@@ -13,4 +13,6 @@ This page allows the user to upload a wide format dataset and convert it into lo
 
 To avoid errors when running, spaces in column names are replaced with underscores "_". If column names contain "(", ")" or "*" these are replaced with empty strings "". If you wish to change this, it is advised to edit your column names prior to uploading your data.
 
+The "demo synthetic data" is the [Emotional regulation synthetic dataset](/docs/synthetic_data/emot_reg).
+
 [![TIDAL Data Preparation walkthrough](../../assets/images/data-prep.png)](https://youtu.be/aWteXAWPBik?t=133)
