@@ -1,31 +1,18 @@
 ---
-title: Installation
+title: How to use TIDAL
 layout: default
 nav_order: 2
 has_children: true
 ---
 
-## Installation and usage
+## How to use TIDAL
 
-### Locally
+### TIDAL is available to use in different formats: 
+* [an online apllication](/docs/installation/Online) accessed at [https://tidal.shinyapps.io/tidalapp/](https://tidal.shinyapps.io/tidalapp/)
+* installed as an [R package](/docs/installation/R_package)
+* installed as [a desktop application](/docs/installation/desktop) (on Windows and macOS)
 
-Please install the R package and launch the Shiny app locally if you want to upload sensitive data. If using R Studio it's recommended to restart your R session before installing.
+The online application can be used to explore synthetic datasets provided, please do not upload sensitive data to the tool online. To explore your own data please install the R package or desktop application. This ensures no sensitive data is being uploaded online.
 
-```r
-# install.packages("remotes")
-remotes::install_github("TIDAL-modelling/TIDAL")
-# Note if prompted to update packages you can select option 3/None.
-# Updating all packages (option 1) might take a while to run.
-library("TIDAL")
-# Launch the R Shiny app
-launchTIDAL()
-# To get documentation for launchTIDAL()
-?launchTIDAL
-```
 
-### Online
-
-[https://tidal.shinyapps.io/tidalapp/](https://tidal.shinyapps.io/tidalapp/)
-
-To use this tool online please do not upload any sensitive data. Only use the [synthetic datasets](/docs/installation/synthetic_data).
 
