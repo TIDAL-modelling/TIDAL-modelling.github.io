@@ -1,10 +1,27 @@
-title: TIDAL
+logo: /assets/images/TIDAL_simple.png
 description: Tool to Implement Developmental Analyses of Longitudinal Data
-remote_theme: just-the-docs/just-the-docs
-
-url: https://just-the-docs.github.io
+# theme: just-the-docs
+remote_theme: just-the-docs
 
 aux_links:
-  Tool: https://tidal.shinyapps.io/tidalapp/
   GitHub: https://github.com/TIDAL-modelling/TIDAL
+
+aux_links_new_tab: true
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 

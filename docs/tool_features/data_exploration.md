@@ -1,9 +1,11 @@
 ---
 title: Data Exploration
 layout: default
-parent: Tool Features
+parent: How to use TIDAL
 nav_order: 3
 ---
+
+## Data Exploration
 
 This is the first stage of trajectory modelling. Here the user can either upload a long format dataset or use the dataset formatted on the previous page (Data Preparation). They then select the desired outcome variable to model the trajectory on and a time variable, usually age. Note that the variable which the trajectory is modelled on must be measured on a continuous scale.
 

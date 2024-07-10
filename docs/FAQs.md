@@ -4,9 +4,9 @@ layout: default
 nav_order: 7
 ---
 
-# TIDAL Troubleshooting and FAQs
+## FAQs and Troubleshooting
 
-If you run into any bugs or issues not listed below, please email TIDAL@ed.ac.uk or raise a new GitHub issue using a provided template.
+If you run into any bugs or issues not listed below, please email TIDAL@ed.ac.uk or raise a new [GitHub issue](https://github.com/TIDAL-modelling/TIDAL/issues).
 
 - **Can I upload my own data to use with TIDAL?**
 

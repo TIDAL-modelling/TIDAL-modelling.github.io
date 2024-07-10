@@ -1,12 +1,20 @@
 ---
-title: Tool Features
+title: How to use TIDAL
 layout: default
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 
-![](../../assets/images/tabs.png)
+## How to use TIDAL
 
-### Overview
+Once you have launched the TIDAL application (using one of the formats described [here](/assets/docs/installation)) you can begin to explore your longitudinal data using the different features of the tool.
 
-The aim is for this digital tool to facilitate trajectories work and remove barriers to implementing longitudinal research to researchers without specialist statistical backgrounds. The following pages guide trajectory modelling and capture clinically meaningful features from mental health trajectories for specific individuals and/or specific groups of people. A more detailed description of each page is provided below with links to the full [walkthrough video](https://www.youtube.com/watch?v=aWteXAWPBik). An instruction manual is provided [here](https://github.com/TIDAL-modelling/TIDAL/blob/main/Documentation/Instructions.pdf).
+|![](../../assets/images/tabs.png)|
+|:--:| 
+| *Header of the TIDAL application showing the different pages.* |
+
+The first page you are met with when launching TIDAL is the "Overview" page. This gives some information about TIDAL and details on the function of each page (Data Preparation, Data Exploration, Interaction Variable and Individual Trajectories). 
+
+A more detailed description of each page is provided in the documentation pages below with links to a [walkthrough video](https://www.youtube.com/watch?v=aWteXAWPBik). 
+
+Alternatively, a pdf instruction manual is available to download [here](/assets/pdf/Instructions.pdf).

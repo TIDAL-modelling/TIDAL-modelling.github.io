@@ -1,14 +1,14 @@
 ---
-title: Stats Guide
+title: TIDAL Statistics 101
 layout: default
 nav_order: 6
 ---
 
-# TIDAL Statistics Guide
+## TIDAL Statistics 101
 
 The purpose of TIDAL is to make longitudinal data analysis accessible to people without a background in statistics, but we include here a brief description of the statistics used for those interested.
 
-## Longitudinal data
+### Longitudinal data
 
 Longitudinal data refers to information collected from the **same people, over time**. In contrast to cross-sectional data, longitudinal data also allows researchers to analyse trends over time. 
 
@@ -22,7 +22,7 @@ They want to know how the rate of depression changes as children grow older. Thi
 
 
 
-## Analysing Longitudinal Data with Mixed Effects Models
+### Analysing Longitudinal Data with Mixed Effects Models
 
 TIDAL uses **mixed effects modelling** to analyse longitudinal data. These models are also sometimes known as *multilevel models* or *mixed models*.
 
@@ -34,7 +34,7 @@ In a longitudinal study, each person has multiple measurements taken. Each of th
 
 In mixed effects models, we estimate both *fixed effects* and *random effects*. Fixed effects are similar to the results of a standard linear regression - they are the effect of our predictive or explanatory variable on our outcome variable. In contrast, random effects allow us to control for the grouping factors that make our data points violate independence. The estimates from random effects capture the differences in our outcome due to the differences between levels of our grouping variable (in this case, people).
 
-## Further reading (external links)
+### Further reading (external links)
 [A beginner's introduction to mixed effects models](https://meghan.rbind.io/blog/2022-06-28-a-beginner-s-guide-to-mixed-effects-models/)
 
 [An introduction to linear mixed-effects modeling in R](https://journals.sagepub.com/doi/10.1177/2515245920960351)

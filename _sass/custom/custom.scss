@@ -1,0 +1,11 @@
+// Buttons and things that look like buttons
+// stylelint-disable color-named
+
+.container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Items evenly distributed with space in between */
+    align-items: center; /* Center align items vertically */
+    padding: 20px; /* Optional padding for spacing */
+}
+
+

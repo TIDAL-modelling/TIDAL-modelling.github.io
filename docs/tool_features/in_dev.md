@@ -1,9 +1,11 @@
 ---
 title: Features in development
 layout: default
-parent: Tool Features
+parent: How to use TIDAL
 nav_order: 6
 ---
+
+## Features in development
 
 * **Points of acceleration**
   * Examine timing of peak velocity of trajectories. This feature highlights a critical period at which further support or interventions could be introduced to dramatically shift an individual’s illness trajectory.
