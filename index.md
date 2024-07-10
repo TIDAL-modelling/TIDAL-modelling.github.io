@@ -19,9 +19,9 @@ This project is funded by The Wellcome Trust and Social Finance (Grant Ref: 2266
 ### Project Contributors
 
 #### Division of Psychiatry, University of Edinburgh:
-* Alex S. F. Kwong
+* Alex S. F. Kwong (Project Lead)
 * Heather C. Whalley
-* Amelia J. Edmondson-Stait
+* Amelia Edmondson-Stait
 * Eileen Y. Xu
 * Liana Romaniuk
 * Iona Beange
@@ -29,7 +29,7 @@ This project is funded by The Wellcome Trust and Social Finance (Grant Ref: 2266
 
 #### Social, Genetic and Developmental Psychiatry Centre, King’s College London:
 * Thalia C. Eley
-* Ellen J. Thompson (School of Psychology, Faculty of Science, Engineering and Medicine, University of Sussex)
+* Ellen J. Thompson (also University of Sussex)
 
 #### Population Health Sciences, Bristol Medical School, University of Bristol:
 * Kate Tilling
