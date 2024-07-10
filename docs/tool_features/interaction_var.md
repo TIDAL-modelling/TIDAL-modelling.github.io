@@ -1,9 +1,11 @@
 ---
 title: Interaction Variable
 layout: default
-parent: Tool Features
+parent: How to use TIDAL
 nav_order: 4
 ---
+
+## Interaction Variable
 
 On this page, the user can examine group differences or the effect of an interacting variable. The user can select a categorical or continuous variable from within the data and fit an updated model with the included interaction variable. The model type is inherited from the "Data Exploration" page alongside any covariates or confounders. Note that the interaction variable should not be included in the initial model if you wish to investigate it on this page. 
 

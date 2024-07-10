@@ -1,9 +1,11 @@
 ---
 title: Data Preparation
 layout: default
-parent: Tool Features
+parent: How to use TIDAL
 nav_order: 2
 ---
+
+## Data Preparation
 
 Many longitudinal datasets will be written in "wide" format, with each time point's data stored in a separate column. To analyse this data, it must first be converted into "long" format, with one column containing the time point names and one column containing the measurements.
 
