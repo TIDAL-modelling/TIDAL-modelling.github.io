@@ -2,10 +2,5 @@ title: TIDAL
 description: Tool to Implement Developmental Analyses of Longitudinal Data
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
 aux_links:
-  Tool: https://tidal.shinyapps.io/tidalapp/
   GitHub: https://github.com/TIDAL-modelling/TIDAL
-
-
