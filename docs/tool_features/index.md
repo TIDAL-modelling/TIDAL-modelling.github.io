@@ -7,7 +7,7 @@ has_children: true
 
 ## How to use TIDAL
 
-Once you have launched the TIDAL application (using one of the formats described [here](/installation)) you can begin to explore your longitudinal data using the different features of the tool.
+Once you have launched the TIDAL application (using one of the formats described [here](/docs/installation)) you can begin to explore your longitudinal data using the different features of the tool.
 
 |![](../../assets/images/tabs.png)|
 |:--:| 
