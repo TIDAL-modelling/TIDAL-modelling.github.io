@@ -35,8 +35,6 @@ In a longitudinal study, each person has multiple measurements taken. Each of th
 In mixed effects models, we estimate both *fixed effects* and *random effects*. Fixed effects are similar to the results of a standard linear regression - they are the effect of our predictive or explanatory variable on our outcome variable. In contrast, random effects allow us to control for the grouping factors that make our data points violate independence. The estimates from random effects capture the differences in our outcome due to the differences between levels of our grouping variable (in this case, people).
 
 ### Further reading (external links)
-[A beginner's introduction to mixed effects models](https://meghan.rbind.io/blog/2022-06-28-a-beginner-s-guide-to-mixed-effects-models/)
-
 [An introduction to linear mixed-effects modeling in R](https://journals.sagepub.com/doi/10.1177/2515245920960351)
 
 [What is a mixed effects model](https://www.statstest.com/mixed-effects-model/#What_is_a_Mixed_Effects_Model)

@@ -11,7 +11,7 @@ nav_order: 3
 </div>
 
 * Pre-pandemic financial problems and subsequent measures of anxiety symptoms across COVID-19, measured by the Generalised Anxiety Disorder 7 scale (GAD-7),  across 5 time points in early adulthood (ages 28 to 30).
-* This dataset contains ~4100 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://https://www.bristol.ac.uk/alspac/) participants.
+* This dataset contains ~4100 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://www.bristol.ac.uk/alspac/) participants.
 * You could use this dataset to explore the impact of pre-pandemic financial problems on later anxiety trajectories across COVID-19. You could use the fin_probs variable `fin_probs` to see how trajectories differ, and even see how these trajectories might look after adjusting for by pre-pandemic levels of anxiety `anx_pp`. 
 * There is 1 finacial problems variable one could use to split trajectories by: 
   *  `fin_probs`

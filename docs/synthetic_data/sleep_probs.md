@@ -11,7 +11,7 @@ nav_order: 4
 </div>
 
 * Sleep problems in childhood and subsequent measures of depressive symptoms, measured by the Short Mood and Feelings Questionnaire (SMFQ), and the Strengths & Difficulties Questionnaires Emotional Subscale (SDQ-E) across 4 time points in childhood and adolescence (ages 9 to 16).
-* This dataset contains ~8900 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://https://www.bristol.ac.uk/alspac/) participants.
+* This dataset contains ~8900 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://www.bristol.ac.uk/alspac/) participants.
 * You could use this dataset to examine the impact of childhood sleep problems on later mental health trajectories using either the MFQ or SDQ data as outcomes. For example you could see how MFQ trajectories differ by `sleep_bin` and even adjust for baseline SDQ scores `emot_t1` and vice versa.
 * There is 1 sleep problems variable one could use to split trajectories by: 
   *  `sleep_bin`

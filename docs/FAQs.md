@@ -10,7 +10,7 @@ If you run into any bugs or issues not listed below, please email TIDAL@ed.ac.uk
 
 - **Can I upload my own data to use with TIDAL?**
 
-If you are using the [online version](https://tidal.shinyapps.io/tidalapp/) then please do not upload *any sensitive data*. You can explore the tool online using the [synthetic data](/data/README.md).
+If you are using the [online version](https://tidal.shinyapps.io/tidalapp/) then please do not upload *any sensitive data*. You can explore the tool online using the [synthetic data](docs/synthetic_data).
 
 You *must* install TIDAL on your computer if you wish to analyse sensitive data. To do this, you need to first install R and RStudio (though if you prefer to work in the R terminal, you could use a X window system to display the GUI instead). Then run the following code to install and launch TIDAL:
 

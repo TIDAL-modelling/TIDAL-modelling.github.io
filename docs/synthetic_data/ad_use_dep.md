@@ -12,7 +12,7 @@ nav_order: 2
 
 
 * Long term antidepressant adherence and subsequent measures of depressive symptoms, measured by the Short Mood and Feelings Questionnaire (SMFQ),  across 7 time pointsbetween in early adulthood (ages 23 to 30).
-* This dataset contains ~800 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://https://www.bristol.ac.uk/alspac/)participants.
+* This dataset contains ~800 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://www.bristol.ac.uk/alspac/) participants.
 * You could use this dataset to look at long term depression trajetcories split by adherence to antidepressants. 
 * There is 1 antidepressant variable one could use to split trajectories by: 
    *  `meds`

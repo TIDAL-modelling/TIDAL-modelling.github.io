@@ -11,7 +11,7 @@ nav_order: 5
 </div>
 
 * Sex and genetic differences in height trajetcories, measured across 8 time points across childhood and adolescence (ages 7 to 18).
-* This dataset contains ~15000 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://https://www.bristol.ac.uk/alspac/) participants.
+* This dataset contains ~15000 people, based upon data from the [Avon Longitudinal Study of Parents and Children (ALSPAC)](https://www.bristol.ac.uk/alspac/) participants.
 * You could use this dataset to examine sex differences in height trajetcories using the `female` for sex. Alternatively, you could explore how higher or lower polygenic risk score for height `hei_k_5e08_std` are associated with different height trajectories, adjusting for sex `female`.
 * There is 1 sex variable one could use to split trajectories by: 
   *  `female`
