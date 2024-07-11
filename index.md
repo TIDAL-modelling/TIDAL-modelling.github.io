@@ -20,7 +20,7 @@ This project is funded by The Wellcome Trust and Social Finance (Grant Ref: 2266
 
 #### Division of Psychiatry, University of Edinburgh:
 * Alex S. F. Kwong (Project Lead)
-* Heather C. Whalley
+* Heather C. Whalley (Project Lead)
 * Amelia Edmondson-Stait
 * Eileen Y. Xu
 * Liana Romaniuk
