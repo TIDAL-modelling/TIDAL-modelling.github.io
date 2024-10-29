@@ -1,7 +1,7 @@
 logo: /assets/images/TIDAL_simple.png
 description: Tool to Implement Developmental Analyses of Longitudinal Data
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 
 aux_links:
   GitHub: https://github.com/TIDAL-modelling/TIDAL
