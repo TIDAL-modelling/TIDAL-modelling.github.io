@@ -28,7 +28,7 @@ TIDAL can be used by installing the [TIDAL R package](https://github.com/TIDAL-m
 	?launchTIDAL
 	```
 
-<video width="100%" controls autoplay muted>
+<video width="100%" controls autoplay muted loop>
   <source src="/assets/video/TIDAL_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
