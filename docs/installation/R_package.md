@@ -11,7 +11,7 @@ TIDAL can be used by installing the [TIDAL R package](https://github.com/TIDAL-m
 
 1. Install the statistical programing language [R](https://cran.rstudio.com/) 
 2. We also reccomend installing [R Studio](https://posit.co/download/rstudio-desktop/)
-3. Install the [TIDAL R package](https://github.com/TIDAL-modelling/TIDAL) by running the code below in your R console. 
+3. Install the [TIDAL R package](https://github.com/TIDAL-modelling/TIDAL) by running the code below in your R console. Please see video below for a demo.
 
 	{: .highlight }
 	If using R Studio it's recommended to restart your R session before installing.
@@ -28,3 +28,7 @@ TIDAL can be used by installing the [TIDAL R package](https://github.com/TIDAL-m
 	?launchTIDAL
 	```
 
+<video width="100%" controls autoplay muted>
+  <source src="/assets/video/TIDAL_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
