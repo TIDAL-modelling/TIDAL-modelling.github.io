@@ -59,3 +59,8 @@ Check that your R version is up-to-date. TIDAL requires you to have R version 2.
 
 Hover over the icon with your cursor to display the additional information. Clicking the icon will not display the text.
 
+- **The Shiny app fails to launch on Linux from the R console**
+
+If this happens a work around may be to view the app running locally in your browser. This can be done by copying and pasting the URL after "Listening on" (see the yellow box in the screenshot below for an example). Here, for "Listening on http://127.0.0.1:4484" copy and paste "http://127.0.0.1:4484" into your browser, eg. in Chrome or Firefox. Even though you are using a browser the app is still running locally on your computer, the same as if the pop-out window was launched from RStudio.
+
+![../../assets/images/localhost.png](../../assets/images/localhost.png)
