@@ -15,4 +15,4 @@ To avoid errors when running, spaces in column names are replaced with underscor
 
 The "demo synthetic data" is the [Emotional regulation synthetic dataset](/docs/synthetic_data/emot_reg).
 
-[![TIDAL Data Preparation walkthrough](../../assets/images/data-prep.png)](https://youtu.be/aWteXAWPBik?t=133)
+[![TIDAL Data Preparation walkthrough](../../assets/images/data-prep.png)](https://youtu.be/3tWDc0lKgyk?t=285&si=rbziZTOZ-NySZR_0)

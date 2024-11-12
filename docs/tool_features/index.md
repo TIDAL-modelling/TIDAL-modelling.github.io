@@ -15,6 +15,6 @@ Once you have launched the TIDAL application (using one of the formats described
 
 The first page you are met with when launching TIDAL is the "Overview" page. This gives some information about TIDAL and details on the function of each page (Data Preparation, Data Exploration, Interaction Variable and Individual Trajectories). 
 
-A more detailed description of each page is provided in the documentation pages below with links to a [walkthrough video](https://www.youtube.com/watch?v=aWteXAWPBik). 
+A more detailed description of each page is provided in the documentation pages below with links to a [walkthrough video](https://youtu.be/3tWDc0lKgyk?si=A9jvhNU7MRlZzdOC&t=1). 
 
 Alternatively, a pdf instruction manual is available to download [here](/assets/pdf/Instructions.pdf).

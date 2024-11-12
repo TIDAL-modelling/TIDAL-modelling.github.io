@@ -11,4 +11,4 @@ On this page, the user can examine group differences or the effect of an interac
 
 The output is similar to that from the "Data Exploration" page. In future we will be implementing features allowing the user to change factor level names and select the reference level to be used for categorical variables.
 
-[![TIDAL Interaction Variable walkthrough](../../assets/images/interaction-variable.png)](https://youtu.be/aWteXAWPBik?t=475)
+[![TIDAL Interaction Variable walkthrough](../../assets/images/interaction-variable.png)](https://youtu.be/3tWDc0lKgyk?t=1209&si=QwWRiISJtX25_J_l)

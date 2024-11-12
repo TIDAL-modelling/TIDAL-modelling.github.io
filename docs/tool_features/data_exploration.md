@@ -13,4 +13,4 @@ There is an option at this stage to add extra covariates or confounders to the m
 
 Once a model has been fitted, TIDAL will output the fixed and random effects in the "Model Results" tab. The user can also examine predicted scores for specific ages in the "Scores At Ages" tab and extract Area Under the Curve metrics in the "Area Under Curve" tab. Finally, the user can download a PDF report from the "Download Results" tab.
 
-[![TIDAL Data Exploration walk through](../../assets/images/data-explore.png)](https://youtu.be/aWteXAWPBik?t=239)
+[![TIDAL Data Exploration walk through](../../assets/images/data-explore.png)](https://youtu.be/3tWDc0lKgyk?t=508&si=uZxawgoZTWRVgD_l)
