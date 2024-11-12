@@ -11,6 +11,7 @@ has_children: true
 * [an online apllication](/docs/installation/Online) accessed at [https://tidal.shinyapps.io/tidalapp/](https://tidal.shinyapps.io/tidalapp/)
 * installed as an [R package](/docs/installation/R_package)
 * installed as [a desktop application](/docs/installation/desktop) (on Windows and macOS)
+* installed as [a docker image](/docs/installation/docker) (on Windows, macOS and linux)
 
 The online application can be used to explore [synthetic datasets](/docs/synthetic_data) provided, please do not upload sensitive data to the tool online. To explore your own data please install the R package or desktop application. This ensures no sensitive data is being uploaded online.
 
