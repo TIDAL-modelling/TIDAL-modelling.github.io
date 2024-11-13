@@ -22,8 +22,19 @@ docker run -d -p 3838:3838 ameliaes/tidal:1.0
 ```
 This will start the app inside Docker and map port **3838** on your computer to the app’s port inside the container.
 4. **Access the TIDAL app.** Open your web browser (Chrome, Firefox, Safari, etc.). Go to [http://localhost:3838](http://localhost:3838) to open the TIDAL R Shiny app.
+5. **Close docker** When you are finished stop the docker container running on the port:
+```bash
+docker ps
+docker stop <CONTAINER ID>
+```
 
 ### Troubleshooting
+
+#### 1. "docker: command not found"
+   You may need to add docker to your executable path, eg. on a mac:
+   ```bash
+   export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin/"
+   ```
 
 #### 1. Port Already in Use:
    If you get an error about port 3838 being in use, try this instead:
