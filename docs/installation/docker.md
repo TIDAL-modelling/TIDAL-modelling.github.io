@@ -16,11 +16,12 @@ TIDAL can be used by installing the [TIDAL Docker image](https://hub.docker.com/
 ```bash
 docker pull ameliaes/tidal:1.0
 ```
-3. **Run the Docker container.** After the image is downloaded, start the container by running this command in your CLI:
+An alternative step to this is to use the Docker Desktop GUI. Please refer to the [Docker Desktop documentation](https://docs.docker.com/desktop/use-desktop/images/) for further information.
+3. **Run the Docker container.** After the image is downloaded, start the container by running this command in your Command Line Interface (Command Prompt on Windows, Terminal on macOS/Linux):
 ```bash
 docker run -d -p 3838:3838 ameliaes/tidal:1.0   
 ```
-This will start the app inside Docker and map port **3838** on your computer to the app’s port inside the container.
+This may take a while to run. It will start the app inside Docker and map port **3838** on your computer to the app’s port inside the container. An alternative step to this is to use the Docker Desktop GUI. Please refer to the [Docker Desktop documentation](https://docs.docker.com/desktop/use-desktop/images/) for further information.
 4. **Access the TIDAL app.** Open your web browser (Chrome, Firefox, Safari, etc.). Go to [http://localhost:3838](http://localhost:3838) to open the TIDAL R Shiny app.
 5. **Close docker** When you are finished stop the docker container running on the port:
 ```bash
@@ -36,7 +37,7 @@ docker stop <CONTAINER ID>
    export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin/"
    ```
 
-#### 1. Port Already in Use:
+#### 2. Port Already in Use:
    If you get an error about port 3838 being in use, try this instead:
    ```bash
    docker run -d -p 8080:3838 tidal-modelling/tidal-app:latest
@@ -49,13 +50,11 @@ docker stop <CONTAINER ID>
    docker stop <CONTAINER ID>
    ```
 
-#### 2. Connection Refused:
+#### 3. Connection Refused:
    If you can’t access the app, check if the container is running with:
    ```bash
    docker ps
    ```
    If it’s not listed, run the `docker run` command again.
 
-#### 3. Docker Command Not Found:
-   If Docker isn't installed, follow the installation steps again for your operating system.
 
