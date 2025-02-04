@@ -24,7 +24,7 @@ This script is to demonstrate some of the code that happens in the background of
 ### Upload data in wide format and convert to long format
 ```{r}
 # Load in wide format dataframe
-setwd("/Users/aes/GitRepos/TIDAL")
+# Demo data located here: https://github.com/TIDAL-modelling/TIDAL/tree/main/data
 
 dataWide <- read.csv("data/emot_reg_emot_simulated.csv")
 

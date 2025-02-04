@@ -373,7 +373,6 @@ linear model.</p>
 <div id="upload-data-in-wide-format-and-convert-to-long-format" class="section level3">
 <h3>Upload data in wide format and convert to long format</h3>
 <pre class="r"><code># Load in wide format dataframe
-setwd(&quot;/Users/aes/GitRepos/TIDAL&quot;)
 
 dataWide &lt;- read.csv(&quot;data/emot_reg_emot_simulated.csv&quot;)
 
